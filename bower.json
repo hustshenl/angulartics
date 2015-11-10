@@ -3,6 +3,7 @@
   "version": "0.20.1",
   "main": [
     "src/angulartics.js",
+    "src/angulartics-baidu.js",
     "src/angulartics-clicky.js",
     "src/angulartics-cnzz.js",
     "src/angulartics-ga-cordova.js",
